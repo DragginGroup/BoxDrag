@@ -19,6 +19,6 @@ Funkin Crew Inc - Minor SFX From their Hit Game: Friday Night Funkin.
 # Extra Shit
 Current Game Version: 0.1.2
 
-Current Engine (Scratch) Version: 3.x
+Current Engine (Scratch) Version: 3.30.5(?)
 
-README Version 0.0.2
+README Version 0.0.3
