@@ -15,6 +15,8 @@ Madness-Rombank - Animator, Artist, Musician, Programmer
 
 Funkin Crew Inc - Minor SFX From their Hit Game: Friday Night Funkin.
 
+Djotta Flow - Assistant Animator and Artist
+
 # Links
 Game: https://scratch.mit.edu/projects/1048396037
 
@@ -23,6 +25,6 @@ Friday Night Funkin: https://www.newgrounds.com/portal/view/770371
 # Extra Shit
 Current Game Version: 0.1.2
 
-Current Engine (Scratch) Version: 3.30.5(?)
+Current Engine (Scratch) Version: 3.30.5
 
-README Version 0.0.4
+README Version 0.0.5
