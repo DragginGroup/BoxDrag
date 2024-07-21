@@ -53,3 +53,23 @@ V0.1.2 - July 21 2024
 - Final Score counter now uses Final Score variable for colors instead of Score: Stats Sprite
 - The Counting Sound Changes when it's the last number til the rank: Stats Sprite
 - The Results Stats Shines when in Dev Rank Testing: Stats Sprite
+
+V0.1.3 - July 22 2024
+
+- The RankWord Clone in the Results now Shines with the jingles like the Rank, Rank Pixel Display, and Rank Nickname Pixel Display Rank Sprite
+- The Sprinkles for the "S+" Rank now go in the foreground: RankExtras Sprite
+- The Speed X and Y variables are now separate from the Gravity Clone Script: RankExtras Sprite
+- The Sprinkles now Go Higher when they burst out: RankExtras Sprite
+- Fixed Spelling mistake on Gravity Clone Script: RankExtras Sprite
+- Added Speed X Slipperyness Value to Gravity Clone Script: RankExtras Sprite
+- Changed Speed X Slipperyness Value from 0.8 to 0.9 for sprinkles: RankExtras Sprite
+- 200 Sprinkles now burst out instead of 100 for "S+" Rank: RankExtras 
+- Added Clone Counter for Development: Affects all Sprites with Cloning
+- Added Life Timer Variable to RankExtras to prevent 80+ live clones heading into gameplay also lag prevention: RankExtras Sprite
+- Added DEVELOPER CLONE BAR Variable to display The Clone amount in a cool little bg graph: Backdrop, Stats, and Developer Sprites
+- Fixed Bug Where Gameplay and Rank Status were in sync: Stats Sprite
+- Added DEVELOPER CLONE LIMIT variable and DEVELOPER CLONE KEEPER LIST to keep track of the Clone amount for a given amount of frames: Developer Sprite
+- Added 3 "Clone Bar" Modes, all enabled by the value of the DEVELOPER CLONE BAR variable: Developer Sprite
+- The Mathamatics of calculating when to spawn a note now accommodates the Note Speed into the equation of random digits: EvilNote Sprite
+- The Pixel Art Rank and Rank Nickname Display Now have Grids behind them: Rank Sprite
+- The 8x8 Rank Display now "charges": Rank Sprite
