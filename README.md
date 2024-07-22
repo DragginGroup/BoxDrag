@@ -25,6 +25,6 @@ Friday Night Funkin: https://www.newgrounds.com/portal/view/770371
 # Extra Shit
 Current Game Version: 0.1.3
 
-Current Engine (Scratch) Version: 3.30.5
+Current Engine: Turbowarp Web
 
-README Version 0.0.6
+README Version 0.0.7
