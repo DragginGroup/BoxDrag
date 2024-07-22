@@ -79,9 +79,13 @@ V0.1.3 - July 22 2024
 - Created Custom Rank Animation for "S" Rank: RankAnim, RankExtras, Stats, and Rank Sprites
 - Added Rare Animation for F Rank (Animation by Djotta): RankAnim Sprite
 - Adjusted F Rank Animation: RankAnim Sprite
-- Properly Fixed "Good Rank" Animation: RankAnim Sprite 
+- Properly Fixed "Good Rank" Animation: RankAnim Sprite
 - Redid Rank Nicknames: Rank Sprite
 - Added Asset for when the Rank Nickname Sprite is Not Available: RankAnim Sprite
 - Altered Rank Sign: Rank Sprite
 - Altered Positions of Rank Word, Rank Nickname Display, Rank Pixel Display, Rank, and Dev Wrench: Rank Sprite
 - Altered Position of Rank Misses Counter: Stats Sprite
+
+v0.1.4 - July 23 2024
+
+- Modified "F" Rank Animation and the Rare Tomatos are now Rare: RankAnim Sprite
