@@ -1,3 +1,0 @@
-v[major.minor.bugfix-suffix] - [date]
-
-- [change]
