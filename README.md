@@ -9,7 +9,7 @@ other Boxes to give them color and life, and you
 gain points from doing so.
 
 # Current Gameplay Scenes
-- Title (Unused)
+- Main Menu
 - Song Select (Unused)
 - Game Mode Select (Unused)
 - Gameplay
@@ -28,8 +28,8 @@ Game: https://scratch.mit.edu/projects/1048396037
 Friday Night Funkin: https://www.newgrounds.com/portal/view/770371
 
 # Extra Shit
-Current Game Version: 0.1.4
+Current Game Version: 0.1.5
 
 Current Engines: Scratch Web and Turbowarp Web
 
-README Version 0.0.12
+README Version 0.0.13
