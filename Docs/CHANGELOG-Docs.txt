@@ -1,7 +1,0 @@
-Format:
-v[major.minor.bugfix-suffix] - [date]
-
-- [change]
-
-Don't:
-- Don't list Minor Changes that will not be noticed
