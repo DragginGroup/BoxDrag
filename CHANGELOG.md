@@ -1,5 +1,34 @@
 # Changelog
 
+## UNRELEASED - 0.1.5
+
+- Fixed
+  - Fixed Bug where anything over 100% would be an S rank
+  - Fixed Bug Where % could be over 100
+  - Fixed Bug where anything less than 0% would be an E Rank
+  - Fixed Bug where % could be less than 0
+ 
+Added
+  - Added Title Screen/MainMenu
+  - Added Version Display to MainMenu
+  - Easy Feature to skip Rank Screen (Tap the Amongus)
+
+- Changed
+  - Changed Percentages from Ranks C to S
+
+- Removed
+  - Removed Title Screen Bars
+  - Removed Rank Text Engine Display Code
+  - The Extra Songs Unused in the Song Sprite
+
+- Behind the Scenes
+  - Changed Condition for C Rank to make sure anything between 51 and 59 percent is a C
+  - Cleaned up some Code in the Thumbnail Sprite
+  - Fixed Bug where testing the B Rank would be S+ Rank
+
+- Experimental
+  - Increased -justSpawned Counter for beginning Hit notes from 10 to 15
+    
 ## 0.1.4 - July 23 2024
 - Fixed
   - Fixed F Rank Rare Tomatos
