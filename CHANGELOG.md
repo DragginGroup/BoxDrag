@@ -1,17 +1,17 @@
 # Changelog
 
 ## UNRELEASED
-- ### Fixed
+- Fixed
   - Fixed F Rank Rare Tomatos
   - Fixed S Rank Animation
-- ### Added
+- Added
   - Added Custom Rank theme for F Rank
   - Added D and F rank jingle to E Rank
   - Added Custom Rank Theme for S+ Rank
   - Added Notes Hit Counter
   - Added Smooth Gameplay to Results Transition
 
-- ### Changed
+- Changed
   - Changed Main Rank Theme
   - Changed Note Spawning Math
   - Changed Final Score with a Percentage
