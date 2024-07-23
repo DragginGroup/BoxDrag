@@ -1,22 +1,24 @@
-# UNRELEASED
-- ## Fixed
+# Changelog
+
+## UNRELEASED
+- ### Fixed
   - Fixed F Rank Rare Tomatos
   - Fixed S Rank Animation
-- ## Added
+- ### Added
   - Added Custom Rank theme for F Rank
   - Added D and F rank jingle to E Rank
   - Added Custom Rank Theme for S+ Rank
   - Added Notes Hit Counter
   - Added Smooth Gameplay to Results Transition
 
-- ## Changed
+- ### Changed
   - Changed Main Rank Theme
   - Changed Note Spawning Math
   - Changed Final Score with a Percentage
   - Changed Rank Conditions to adapt the Percentage
   - Changed Rank Nickname Display Color Changing Speed
 
-# 0.1.3 - July 22 2024
+## 0.1.3 - July 22 2024
 - The RankWord Clone in the Results now Shines with the jingles like the Rank, Rank Pixel Display, and Rank Nickname Pixel Display Rank Sprite
 - The Sprinkles for the "S+" Rank now go in the foreground: RankExtras Sprite
 - The Speed X and Y variables are now separate from the Gravity Clone Script: RankExtras Sprite
@@ -47,7 +49,7 @@
 - Altered Positions of Rank Word, Rank Nickname Display, Rank Pixel Display, Rank, and Dev Wrench: Rank Sprite
 - Altered Position of Rank Misses Counter: Stats Sprite
 
-# 0.1.2 - July 21 2024
+## 0.1.2 - July 21 2024
 
 - Added Dev Rank Testing variable: Backdrop
 - Changed Background of 8x8 Rank to an 8x8 background: Rank Sprite
@@ -68,7 +70,7 @@
 - The Counting Sound Changes when it's the last number til the rank: Stats Sprite
 - The Results Stats Shines when in Dev Rank Testing: Stats Sprite
 
-# 0.1.1 - July 20 2024 
+## 0.1.1 - July 20 2024 
 
 - "S+" is now a Rank: Rank Sprite
 - Grey Blocks now turn into the color of the -score math variable: EvilNote Sprite
@@ -101,5 +103,5 @@
 - The letters/symbols ".", and "0" have offsets: Stats Sprite
 - The Rank Word in the Rank Screen now changes color like the rank: Stats Sprite
 
-# 0.1.0 - July 19 2024
+## 0.1.0 - July 19 2024
 - Initial Version
