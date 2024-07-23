@@ -7,6 +7,7 @@ In the Works
 - Fixed
   - Fixed F Rank Rare Tomatos
   - Fixed S Rank Animation
+
 - Added
   - Added Custom Rank theme for F Rank
   - Added D and F rank jingle to E Rank
@@ -18,8 +19,23 @@ In the Works
   - Changed Main Rank Theme
   - Changed Note Spawning Math
   - Changed Final Score with a Percentage
-  - Changed Rank Conditions to adapt the Percentage
   - Changed Rank Nickname Display Color Changing Speed
+
+- Engine Work
+  - Added Beats and Steps
+  - Added Dev and Public version Variables
+
+- Redone
+  - Rank Conditions to adapt the Percentage Scoring Type
+
+- Behind the Scenes
+  - Added New Clone Bar Type: Graph
+  - Added "Development" variable for enabling certain Developer features
+  - Added Turbowarp Settings
+  - Fixed Clone Bar Type:  
+
+- Work In Progress
+  - Added Chart Sprite
 
 ## 0.1.3 - July 22 2024
 - The RankWord Clone in the Results now Shines with the jingles like the Rank, Rank Pixel Display, and Rank Nickname Pixel Display Rank Sprite
