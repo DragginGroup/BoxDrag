@@ -7,11 +7,15 @@
   - Fixed Bug Where % could be over 100
   - Fixed Bug where anything less than 0% would be an E Rank
   - Fixed Bug where % could be less than 0
- 
-Added
+
+- Added
   - Added Title Screen/MainMenu
   - Added Version Display to MainMenu
-  - Easy Feature to skip Rank Screen (Tap the Amongus)
+  - Added Easy Feature to skip Rank Screen (Tap the Amongus)
+  - Added Main Menu Theme
+  - Added Objects in Main Menu Bopping to the Beat
+  - Added Best Rank Display to Main Menu
+  - Added Rank Main Menu Score
 
 - Changed
   - Changed Percentages from Ranks C to S
@@ -21,10 +25,23 @@ Added
   - Removed Rank Text Engine Display Code
   - The Extra Songs Unused in the Song Sprite
 
+- Engine Work
+  - Added Step and Beat Hit Broadcast
+  - Split apart the Beat and Step into separate Broadcasts
+  - Added Script (in title Sprite) for Objects going to the Beat
+  - Added Game State Developer Variable
+  - Added Developer Logs for… Logs
+  - Added Custom Block for Logs and Extra Log Data
+
 - Behind the Scenes
-  - Changed Condition for C Rank to make sure anything between 51 and 59 percent is a C
+  - Changed Condition for C Rank to make sure anything between 51 and 59 percent is a C just in case
   - Cleaned up some Code in the Thumbnail Sprite
   - Fixed Bug where testing the B Rank would be S+ Rank
+  - Added PLAYER COLOR variable that resets in the Main Menu
+  - Changed Menu Background to Red and through code Change it to the same orange it used to be
+
+- Work In Progress
+  - Added Credits “Menu” only accessible through Dev Mode
 
 - Experimental
   - Increased -justSpawned Counter for beginning Hit notes from 10 to 15
