@@ -1,6 +1,6 @@
 # Changelog
 
-## UNRELEASED - 0.1.4
+## 0.1.4 - July 23 2024
 - Fixed
   - Fixed F Rank Rare Tomatos
   - Fixed S Rank Animation
@@ -17,6 +17,7 @@
   - Changed Note Spawning Math
   - Changed Final Score with a Percentage
   - Changed Rank Nickname Display Color Changing Speed
+  - Changed Max Speed for S+ Animation Sprinkles to burst at
 
 - Engine Work
   - Added Beats and Steps
@@ -29,10 +30,13 @@
   - Added New Clone Bar Type: Graph
   - Added "Development" variable for enabling certain Developer features
   - Added Turbowarp Settings
-  - Fixed Clone Bar Type:  
+  - Fixed Clone Bar Type: Sectioned
 
 - Work In Progress
   - Added Chart Sprite
+
+- Experimental
+  - Turbowarp now enables Interpolation
 
 ## 0.1.3 - July 22 2024
 - The RankWord Clone in the Results now Shines with the jingles like the Rank, Rank Pixel Display, and Rank Nickname Pixel Display Rank Sprite
