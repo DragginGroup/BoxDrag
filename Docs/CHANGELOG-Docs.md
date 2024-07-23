@@ -13,8 +13,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 you saw that this is BASED, on Keep a Changelog, but in this case it's real, I'm adding some Categories:
 
 "Engine Work"
+
 "Redone"
+
 "Behind the Scenes"
+
 "Work in Progress"
 
 
