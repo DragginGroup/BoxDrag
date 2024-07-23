@@ -20,6 +20,7 @@ you saw that this is BASED, on Keep a Changelog, but in this case it's real, I'm
 
 "Work in Progress"
 
+"Experimental"
 
 # Don't:
 
