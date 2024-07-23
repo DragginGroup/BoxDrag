@@ -1,8 +1,5 @@
 # Changelog
 
-## UNRELEASED - 0.2.0
-In the Works
-
 ## UNRELEASED - 0.1.4
 - Fixed
   - Fixed F Rank Rare Tomatos
