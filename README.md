@@ -1,3 +1,8 @@
+# Info
+The Changelog format is ***based*** on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), but adds and changes some things for Easy Tracking of **all** Changes.
+
+this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
 # Box Drag
 Box Drag is a simple Game where you Drag a Box to
 other Boxes to give them color and life, and you
@@ -23,8 +28,8 @@ Game: https://scratch.mit.edu/projects/1048396037
 Friday Night Funkin: https://www.newgrounds.com/portal/view/770371
 
 # Extra Shit
-Current Game Version: 0.1.3
+Current Game Version: 0.1.4
 
-Current Engine (Scratch) Version: 3.30.5
+Current Engine: Turbowarp Web
 
-README Version 0.0.6
+README Version 0.0.10
