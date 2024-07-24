@@ -1,6 +1,6 @@
 # Changelog
 
-## UNRELEASED - 0.1.5
+## 0.1.5 - July 24 2024
 
 - Fixed
   - Fixed Bug where anything over 100% would be an S rank
