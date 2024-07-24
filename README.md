@@ -1,4 +1,4 @@
-# Info
+# Important Info
 The Changelog format is ***based*** on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), but adds and changes some things for Easy Tracking of **all** Changes.
 
 this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
@@ -7,13 +7,6 @@ this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 Box Drag is a simple Game where you Drag a Box to
 other Boxes to give them color and life, and you
 gain points from doing so.
-
-# Current Gameplay Scenes
-- Main Menu
-- Song Select (Unused)
-- Game Mode Select (Unused)
-- Gameplay
-- Results
 
 # Credits
 Madness-Rombank - Animator, Artist, Musician, Programmer
@@ -32,4 +25,4 @@ Current Game Version: 0.1.5
 
 Current Engines: Scratch Web and Turbowarp Web
 
-README Version 0.0.13
+README Commit: 14
