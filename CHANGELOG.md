@@ -7,18 +7,15 @@
   - Fixed Bug Where % could be over 100
   - Fixed Bug where anything less than 0% would be an E Rank
   - Fixed Bug where % could be less than 0
+  - Fixed Clipping on F rank sprite
 
 - Added
   - Added Title Screen/MainMenu
-  - Added Version Display to MainMenu
   - Added Easy Feature to skip Rank Screen (Tap the Amongus)
-  - Added Main Menu Theme
-  - Added Objects in Main Menu Bopping to the Beat
-  - Added Best Rank Display to Main Menu
-  - Added Rank Main Menu Score
+  - Added Barebones Player Color Changing System to Main Menu (Tap the notes, color = Random, Grey = Reset)
 
 - Changed
-  - Changed Percentages from Ranks C to S
+  - Changed Percentages for Ranks C B A and S
 
 - Removed
   - Removed Title Screen Bars
@@ -33,18 +30,27 @@
   - Added Developer Logs for… Logs
   - Added Custom Block for Logs and Extra Log Data
 
+- Redone
+  - The Play Button has been redone since the Main Menu’s Conception (Thanks Djotta)
+
 - Behind the Scenes
-  - Changed Condition for C Rank to make sure anything between 51 and 59 percent is a C just in case
   - Cleaned up some Code in the Thumbnail Sprite
   - Fixed Bug where testing the B Rank would be S+ Rank
   - Added PLAYER COLOR variable that resets in the Main Menu
   - Changed Menu Background to Red and through code Change it to the same orange it used to be
+  - The Best Rank isn't saved if testing Ranks
+  - Added Version Display to MainMenu
+  - Added Main Menu Theme
+  - Added Objects in Main Menu Bopping to the Beat
+
+  - Added Rank Main Menu Score
 
 - Work In Progress
   - Added Credits “Menu” only accessible through Dev Mode
+  - Added Best Rank Display to Main Menu
 
 - Experimental
-  - Increased -justSpawned Counter for beginning Hit notes from 10 to 15
+  - Increased -justSpawned Counter from 10 to 15
     
 ## 0.1.4 - July 23 2024
 - Fixed
