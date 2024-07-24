@@ -1,4 +1,56 @@
 # Changelog
+
+## UNRELEASED - 0.1.5
+
+- Fixed
+  - Fixed Bug where anything over 100% would be an S rank
+  - Fixed Bug Where % could be over 100
+  - Fixed Bug where anything less than 0% would be an E Rank
+  - Fixed Bug where % could be less than 0
+  - Fixed Clipping on F rank sprite
+
+- Added
+  - Added Title Screen/MainMenu
+  - Added Easy Feature to skip Rank Screen (Tap the Amongus)
+  - Added Barebones Player Color Changing System to Main Menu (Tap the notes, color = Random, Grey = Reset)
+
+- Changed
+  - Changed Percentages for Ranks C B A and S
+
+- Removed
+  - Removed Title Screen Bars
+  - Removed Rank Text Engine Display Code
+  - The Extra Songs Unused in the Song Sprite
+
+- Engine Work
+  - Added Step and Beat Hit Broadcast
+  - Split apart the Beat and Step into separate Broadcasts
+  - Added Script (in title Sprite) for Objects going to the Beat
+  - Added Game State Developer Variable
+  - Added Developer Logs for… Logs
+  - Added Custom Block for Logs and Extra Log Data
+
+- Redone
+  - The Play Button has been redone since the Main Menu’s Conception (Thanks Djotta)
+
+- Behind the Scenes
+  - Cleaned up some Code in the Thumbnail Sprite
+  - Fixed Bug where testing the B Rank would be S+ Rank
+  - Added PLAYER COLOR variable that resets in the Main Menu
+  - Changed Menu Background to Red and through code Change it to the same orange it used to be
+  - The Best Rank isn't saved if testing Ranks
+  - Added Version Display to MainMenu
+  - Added Main Menu Theme
+  - Added Objects in Main Menu Bopping to the Beat
+
+  - Added Rank Main Menu Score
+
+- Work In Progress
+  - Added Credits “Menu” only accessible through Dev Mode
+  - Added Best Rank Display to Main Menu
+
+- Experimental
+  - Increased -justSpawned Counter from 10 to 15
     
 ## 0.1.4 - July 23 2024
 - Fixed
