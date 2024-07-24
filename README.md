@@ -1,5 +1,7 @@
 # Important Info
-The Changelog format is ***based*** on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), but adds and changes some things for Easy Tracking of **all** Changes.
+The Changelog format is ***based*** on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+
+but adds and changes some things for Easy Tracking of **all** Changes.
 
 this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
@@ -25,4 +27,4 @@ Current Game Version: 0.1.5
 
 Current Engines: Scratch Web and Turbowarp Web
 
-README Commit: 14
+README Commit: 15
