@@ -10,7 +10,7 @@ When creating a Commit,
 make sure to send it to another branch,
 mainly for developers...
 this prevents accidental file leaks such
-as Changelogs being leaked.
+as Changelogs or assets being leaked.
 
 ## Merging
 When Conditions are met,
@@ -23,3 +23,4 @@ Merged with either the ```base``` Branch or
 2. It is a Serious Fix/Addition.. etc.
 3. There are no Merging issues (this one is github stuff)
 4. It's an accepted change by the developers.
+5. It Merges to the right branch.
