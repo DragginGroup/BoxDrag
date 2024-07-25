@@ -23,8 +23,8 @@ Juego: https://scratch.mit.edu/projects/1048396037
 Viernes por la noche Funkin: https://www.newgrounds.com/portal/view/770371
 
 # Mierda extra
-Versión actual del juego: 0.1.5
+Versión actual del juego: 0.1.6
 
 Motores actuales: Scratch Web y Turbowarp Web
 
-README Compromiso: 15
+README Compromiso: 16
