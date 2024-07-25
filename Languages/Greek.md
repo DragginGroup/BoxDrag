@@ -23,8 +23,8 @@ Djotta Flow - Βοηθός Εμψυχωτής και Καλλιτέχνης
 Friday Night Funkin: https://www.newgrounds.com/portal/view/770371
 
 # Έξτρα Σκατά
-Τρέχουσα έκδοση παιχνιδιού: 0.1.6
+Τρέχουσα έκδοση παιχνιδιού: 0.2.0
 
 Τρέχουσες μηχανές: Scratch Web και Turbowarp Web
 
-Δέσμευση README: 16
+Δέσμευση README: 17
