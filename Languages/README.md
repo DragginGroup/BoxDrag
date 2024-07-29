@@ -1,2 +1,2 @@
-# Languages
+# English
 This folder has Language translations for the main readme.
