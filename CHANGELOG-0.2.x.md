@@ -1,14 +1,16 @@
 # Changelog 0.2.x
 
-## UNRELEASED - 0.2.0
+## 0.2.0 - July 29 2024
 
 - Added
   - ADDED 2 NEW SONGS!! Slap and Hag.
   - Added SongSelect Menu (addition/songselect-assets)
   - Added Rank Saving (resets when project resets, but in turbowarp you can save and load it by pressing 0 and 1)
+  - Added Credits Menu
 
 - Engine Work
   - Added Prop List for Clones, currently stores Identifiers
+  - Added easier way of adding songs
 
 - Behind the Scenes
   - Added Sprite for Testing
@@ -17,3 +19,8 @@
   - Created Test Project for Testing Animation Code (addition/tests)
   - Djotta finished Credits Menu Sprite
   - Replaced Stats Menu Version Display with Title Clones
+  - Added Folders
+  - Added Loading Screen (not used)
+  - Removed Main Menu Rank stuff
+  - Added Outline to Clone Bar(s)
+  - Created Test Project for Testing Asset Loading (Base/Tests/AssetLoading-Test.sb3)
