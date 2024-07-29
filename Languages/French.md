@@ -23,8 +23,8 @@ Jeu : https://scratch.mit.edu/projects/1048396037
 Funkin du vendredi soir : https://www.newgrounds.com/portal/view/770371
 
 # Merde supplémentaire
-Version actuelle du jeu : 0.1.5
+Version actuelle du jeu : 0.2.0
 
 Moteurs actuels : Scratch Web et Turbowarp Web
 
-Engagement README : 15
+Engagement README : 17

@@ -1,6 +1,6 @@
 name: Bug Report
 description: Report a bug or an issue in the game.
-labels: "bug"
+labels: "Bug"
 title: "Bug Report: "
 body:
   - type: checkboxes

@@ -22,9 +22,9 @@ Djotta Flow - 助理動畫師和藝術家
 
 星期五晚上芬金：https://www.newgrounds.com/portal/view/770371
 
-#額外的狗屎
-目前遊戲版本：0.1.5
+# 額外的狗屎
+目前遊戲版本：0.2.0
 
 目前引擎：Scratch Web 和 Turbowarp Web
 
-自述文件提交：15
+自述文件提交：17

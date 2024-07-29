@@ -23,8 +23,8 @@ Gioco: https://scratch.mit.edu/projects/1048396037
 Funkin del venerdì sera: https://www.newgrounds.com/portal/view/770371
 
 # Merda extra
-Versione attuale del gioco: 0.1.5
+Versione attuale del gioco: 0.2.0
 
 Motori attuali: Scratch Web e Turbowarp Web
 
-LEGGIMI Impegno: 15
+LEGGIMI Impegno: 17
