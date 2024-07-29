@@ -12,6 +12,3 @@ Questa cartella serve per la traduzione del README principale
 
 # Chinese (Traditional)
 此文件夾用於翻譯主要自述文件
-
-# Greek
-Αυτός ο φάκελος είναι για μετάφραση του κύριου README
