@@ -16,27 +16,27 @@ gain points from doing so.
 <p align="center">
   Madness-Rombank - Animator, Artist, Musician, Programmer
   
-  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-MADNESS-ROMBANK.svg" width="150" title="Among Us doodle">
+  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-MADNESS-ROMBANK.svg" width="125" title="Among Us doodle">
 </p>
 
 <p align="center">
   Funkin Crew Inc - Minor SFX From their Hit Game: Friday Night Funkin.
 
   
-  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-FNF%20-%20SOUNDS.svg" width="150" title="bf from fnf doodle">
+  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-FNF%20-%20SOUNDS.svg" width="125" title="bf from fnf doodle">
 </p>
 
 <p align="center">
   Djotta Flow - Assistant Animator and Artist
 
   
-  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-DJOTTA%20FLOW.svg" width="150" title="Among Us doodle but with beanie">
+  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-DJOTTA%20FLOW.svg" width="125" title="Among Us doodle but with beanie">
 </p>
 <p align="center">
   Ronnery - Assistant Musician
 
 
-  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-RONNERY.svg" width="150" title="ron from fnf doodle">
+  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-RONNERY.svg" width="125" title="ron from fnf doodle">
 </p>
 
 # Links
