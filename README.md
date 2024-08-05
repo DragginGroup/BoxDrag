@@ -17,20 +17,27 @@ gain points from doing so.
 ## Main Team
 <p>
 <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-MADNESS-ROMBANK.svg" width="50" title="Among Us doodle">
-  Madness-Rombank
+  
+Madness-Rombank - Director, Artist, Animator, Composer, Programmer
 </p>
 
 <p>
 <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-DJOTTA%20FLOW.svg" width="50" title="Among Us doodle but with beanie">
-  Djotta Flow
   
-<img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-RONNERY.svg" width="50" title="ron from fnf doodle">Ronnery
+Djotta Flow - Assistant Animator and Artist
+</p>
+
+<p>  
+<img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-RONNERY.svg" width="50" title="ron from fnf doodle">
+  
+Ronnery - Assistant Composer
 </p>
 
 ## Special Thanks
 <p> 
   <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-FNF%20-%20SOUNDS.svg" width="50" title="bf from fnf doodle">
-  Funkin Crew Inc
+
+Funkin Crew Inc - Borrowed sounds from fnf
 </p>
 
 # Links
@@ -43,4 +50,4 @@ Current Game Version: 0.2.1
 
 Current Engines: Scratch Web and Turbowarp Web
 
-README Commit: 24
+README Commit: 25
