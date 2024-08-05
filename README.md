@@ -12,31 +12,27 @@ other Boxes to give them color and life, and you
 gain points from doing so.
 </p>
 
-# Main Team
+# Credits
+
+## Main Team
 <p align="center">
-  Madness-Rombank
-  
   <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-MADNESS-ROMBANK.svg" width="50" title="Among Us doodle">
+  Madness-Rombank
 </p>
 
 <p align="center">
-  Funkin Crew Inc - Minor SFX From their Hit Game: Friday Night Funkin.
-
-  
-  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-FNF%20-%20SOUNDS.svg" width="50" title="bf from fnf doodle">
-</p>
-
-<p align="center">
-  Djotta Flow - Assistant Animator and Artist
-
-  
   <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-DJOTTA%20FLOW.svg" width="50" title="Among Us doodle but with beanie">
+  Djotta Flow
 </p>
 <p align="center">
-  Ronnery - Assistant Musician
-
-
   <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-RONNERY.svg" width="50" title="ron from fnf doodle">
+  Ronnery
+</p>
+
+## Special Thanks
+<p align="center"> 
+  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-FNF%20-%20SOUNDS.svg" width="50" title="bf from fnf doodle">
+  Funkin Crew Inc
 </p>
 
 # Links
@@ -49,4 +45,4 @@ Current Game Version: 0.2.1
 
 Current Engines: Scratch Web and Turbowarp Web
 
-README Commit: 22
+README Commit: 23
