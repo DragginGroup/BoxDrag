@@ -15,22 +15,20 @@ gain points from doing so.
 # Credits
 
 ## Main Team
-<p align="center">
-  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-MADNESS-ROMBANK.svg" width="50" title="Among Us doodle">
+<p>
+<img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-MADNESS-ROMBANK.svg" width="50" title="Among Us doodle">
   Madness-Rombank
 </p>
 
-<p align="center">
-  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-DJOTTA%20FLOW.svg" width="50" title="Among Us doodle but with beanie">
+<p>
+<img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-DJOTTA%20FLOW.svg" width="50" title="Among Us doodle but with beanie">
   Djotta Flow
-</p>
-<p align="center">
-  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-RONNERY.svg" width="50" title="ron from fnf doodle">
-  Ronnery
+  
+<img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-RONNERY.svg" width="50" title="ron from fnf doodle">Ronnery
 </p>
 
 ## Special Thanks
-<p align="center"> 
+<p> 
   <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-FNF%20-%20SOUNDS.svg" width="50" title="bf from fnf doodle">
   Funkin Crew Inc
 </p>
@@ -45,4 +43,4 @@ Current Game Version: 0.2.1
 
 Current Engines: Scratch Web and Turbowarp Web
 
-README Commit: 23
+README Commit: 24
