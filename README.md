@@ -12,31 +12,31 @@ other Boxes to give them color and life, and you
 gain points from doing so.
 </p>
 
-# Credits
+# Main Team
 <p align="center">
-  Madness-Rombank - Animator, Artist, Musician, Programmer
+  Madness-Rombank
   
-  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-MADNESS-ROMBANK.svg" width="100" title="Among Us doodle">
+  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-MADNESS-ROMBANK.svg" width="50" title="Among Us doodle">
 </p>
 
 <p align="center">
   Funkin Crew Inc - Minor SFX From their Hit Game: Friday Night Funkin.
 
   
-  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-FNF%20-%20SOUNDS.svg" width="100" title="bf from fnf doodle">
+  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-FNF%20-%20SOUNDS.svg" width="50" title="bf from fnf doodle">
 </p>
 
 <p align="center">
   Djotta Flow - Assistant Animator and Artist
 
   
-  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-DJOTTA%20FLOW.svg" width="100" title="Among Us doodle but with beanie">
+  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-DJOTTA%20FLOW.svg" width="50" title="Among Us doodle but with beanie">
 </p>
 <p align="center">
   Ronnery - Assistant Musician
 
 
-  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-RONNERY.svg" width="100" title="ron from fnf doodle">
+  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-RONNERY.svg" width="50" title="ron from fnf doodle">
 </p>
 
 # Links
@@ -49,4 +49,4 @@ Current Game Version: 0.2.1
 
 Current Engines: Scratch Web and Turbowarp Web
 
-README Commit: 21
+README Commit: 22
