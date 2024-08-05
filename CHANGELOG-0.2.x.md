@@ -1,11 +1,11 @@
 # Changelog 0.2.x
 
-## 0.2.0 - July 29 2024
+## 0.2.0 - August 4th 2024
 
 - Added
   - ADDED 2 NEW SONGS!! Slap and Hag.
   - Added SongSelect Menu (addition/songselect-assets)
-  - Added Rank Saving (resets when project resets, but in turbowarp you can save and load it by pressing 0 and 1)
+  - Added Rank Saving (resets when project resets, but in turbowarp variations you should be able to press 1 or 0 to load and save)
   - Added Credits Menu
 
 - Engine Work
@@ -24,3 +24,7 @@
   - Removed Main Menu Rank stuff
   - Added Outline to Clone Bar(s)
   - Created Test Project for Testing Asset Loading (Base/Tests/AssetLoading-Test.sb3)
+  - Added "bah" Developer song for Testing stuff
+  - Backdrop is now a Sprite
+  - Development stuff can kinda sorta only work on Turbowarp
+  - Menu Backdrop Tweens into a color now
