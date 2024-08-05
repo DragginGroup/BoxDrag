@@ -1,23 +1,43 @@
 # Important Info
-The Changelog format is ***based*** on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+The Changelog format is **based** on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 but adds and changes some things for Easy Tracking of **all** Changes.
 
 this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 # Box Drag
-Box Drag is a simple Game where you Drag a Box to
+<p align="center">
+  Box Drag is a simple Game where you Drag a Box to
 other Boxes to give them color and life, and you
 gain points from doing so.
+</p>
 
 # Credits
-Madness-Rombank - Animator, Artist, Musician, Programmer
+<p align="center">
+  Madness-Rombank - Animator, Artist, Musician, Programmer
+  
+  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-MADNESS-ROMBANK.svg" width="150" title="Among Us doodle">
+</p>
 
-Funkin Crew Inc - Minor SFX From their Hit Game: Friday Night Funkin.
+<p align="center">
+  Funkin Crew Inc - Minor SFX From their Hit Game: Friday Night Funkin.
 
-Djotta Flow - Assistant Animator and Artist
+  
+  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-FNF%20-%20SOUNDS.svg" width="150" title="bf from fnf doodle">
+</p>
 
-Ronnery - Assistant Musician
+<p align="center">
+  Djotta Flow - Assistant Animator and Artist
+
+  
+  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-DJOTTA%20FLOW.svg" width="150" title="Among Us doodle but with beanie">
+</p>
+<p align="center">
+  Ronnery - Assistant Musician
+
+
+  <img src="https://github.com/BoxDragginGroup/BoxDrag/blob/indev/SVGcrap/Icon-RONNERY.svg" width="150" title="ron from fnf doodle">
+</p>
 
 # Links
 Game: https://madnessrombank.itch.io/box-drag
@@ -29,4 +49,4 @@ Current Game Version: 0.2.1
 
 Current Engines: Scratch Web and Turbowarp Web
 
-README Commit: 18
+README Commit: 19
