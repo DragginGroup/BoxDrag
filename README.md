@@ -17,14 +17,16 @@ Funkin Crew Inc - Minor SFX From their Hit Game: Friday Night Funkin.
 
 Djotta Flow - Assistant Animator and Artist
 
+Ronnery - Assistant Musician
+
 # Links
-Game: https://scratch.mit.edu/projects/1048396037
+Game: https://madnessrombank.itch.io/box-drag
 
 Friday Night Funkin: https://www.newgrounds.com/portal/view/770371
 
 # Extra Shit
-Current Game Version: 0.2.0
+Current Game Version: 0.2.1
 
 Current Engines: Scratch Web and Turbowarp Web
 
-README Commit: 17
+README Commit: 18
