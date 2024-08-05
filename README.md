@@ -6,11 +6,9 @@ but adds and changes some things for Easy Tracking of **all** Changes.
 this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 # Box Drag
-<p align="center">
-  Box Drag is a simple Game where you Drag a Box to
+Box Drag is a simple Game where you Drag a Box to
 other Boxes to give them color and life, and you
 gain points from doing so.
-</p>
 
 # Credits
 
@@ -50,4 +48,4 @@ Current Game Version: 0.2.1
 
 Current Engines: Scratch Web and Turbowarp Web
 
-README Commit: 25
+README Commit: 26
