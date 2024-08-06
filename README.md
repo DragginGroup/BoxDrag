@@ -44,8 +44,8 @@ Game: https://madnessrombank.itch.io/box-drag
 Friday Night Funkin: https://www.newgrounds.com/portal/view/770371
 
 # Extra Shit
-Current Game Version: 0.2.1
+Current Game Version: 0.2.2
 
 Current Engines: Scratch Web and Turbowarp Web
 
-README Commit: 26
+README Commit: 27
